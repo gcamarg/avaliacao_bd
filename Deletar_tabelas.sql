@@ -1,0 +1,1 @@
+drop table if exists enderecos, log, transportadoras, itens, produtos, categorias, fabricantes, pedidos, clientes;
